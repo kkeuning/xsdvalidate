@@ -1,0 +1,1 @@
+Simple example using [krolaw/xsd](https://github.com/krolaw/xsd) to validate an xml file against an xsd schema file.  Not much original here, thanks go to Richard Warburton.  
